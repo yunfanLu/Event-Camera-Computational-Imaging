@@ -5,6 +5,7 @@
 | ----------- | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
 | CVPR 2020   | EventSR: From Asynchronous Events to Image Reconstruction, Restoration, and Super-Resolution via End-to-End Adversarial Learning | EventSR; End2end; Adversarial learning |
 | TAPMI 2020  | E2SRI: Learning to Super-Resolve Intensity Images from Events                                                                    | SR-Net; RCNN                           |
+| ICML 2024   | EvTexture: Event-driven Texture Enhancement for Video Super-Resolution                                                           | events for texture enhancement  |
 
 
 ## Event-guided Image / Video Deblurring
